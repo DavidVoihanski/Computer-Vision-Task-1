@@ -1,0 +1,3 @@
+4.5 question - if one or more of the sections have 0 pixels the program will crash because it'll divide by zero when calculating the mean.
+Python 3.7
+ubuntu 18.04.3
